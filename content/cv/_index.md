@@ -5,17 +5,17 @@ date: 2024-10-24
 type: docs
 math: false
 # tags:
-#   - Curriculum Vitae
-image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+# - Curriculum Vitae
+# image:
+#   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
 <div style="display: flex; align-items: center;">
   <img src="./avatar.jpg" alt="ISMAIL HOSSAIN" style="width: 200px; height: auto; margin-right: 20px;">
   <div>
     <h1>Ismail Hossain</h1>
-    <p><em>Front-End Developer</em></p>
-    <p>Jahangirnagar University</p>
+    <p><em>Front-End Web Developer</em></p>
+    <p>Studies at Department of Computer Science & Engineering in Jahangirnagar University</p>
   </div>
 </div>
 

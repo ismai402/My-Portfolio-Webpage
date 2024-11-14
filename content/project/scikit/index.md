@@ -8,6 +8,6 @@ external_link: https://github.com/ismai402/Guessing-Game-update-code
 #   - Markdown
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+This game is an engaging way to practice logical thinking and can be modified to adjust the difficulty by changing the range or limiting the number of attempts.
 
 <!--more-->

@@ -108,7 +108,9 @@ work:
       Responsibilities include:
       - Line Following Robot (LFR)
       - Robo Soccer
-      - Six DOF (Robotics Hand)
+      - Ultrasonic Sensor
+      - Soil Moisture Sensor
+      - Temperature Sensor
   # - position: Backend Software Engineer
   #   company_name: ''
   #   company_url: ''
@@ -128,11 +130,11 @@ skills:
     items:
       - name: C, C++, Java, JavaScript, DBMS, Data Structure, HTML, CSS
         description: ''
-        percent: 80
+        percent: 60
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-bar
       # - name: SQL
       #   description: ''
@@ -208,4 +210,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Ismail Hossain, a Front-end Web Developer with a strong passion for robotics, data science, and machine learning. Currently, I am studying at the Department of Computer Science & Engineering at Jahangirnagar University, where I also serve as an executive member of the Jahangirnagar University Robotics Club (JURC). In this role, I actively participate in projects such as Line Following Robots (LFR), Robo Soccer. I have a solid foundation in subjects like physics, chemistry, mathematics, and ICT. My technical skills include programming languages such as C, C++, Java, and JavaScript, as well as web development technologies like HTML and CSS. In addition to my technical pursuits, I am an avid hiker and enjoy both photography and badminton. I am also multilingual, proficient in English, Bangla, and conversational in Hindi. My goal is to continuously learn and contribute to the fields of web development and robotics, leveraging my technical and interpersonal skills to make meaningful contributions.
