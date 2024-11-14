@@ -1,6 +1,6 @@
 ---
 title: Guessing Game
-date: 2023-10-26
+date: 2024-06-26
 external_link: https://github.com/ismai402/Guessing-Game-update-code
 # tags:
 #   - Hugo

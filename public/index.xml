@@ -60,6 +60,14 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     </item>
     
     <item>
+      <title>Guessing Game</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;This game is an engaging way to practice logical thinking and can be modified to adjust the difficulty by changing the range or limiting the number of attempts.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
@@ -73,14 +81,6 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/toolkit/</guid>
       <description>&lt;p&gt;A registration form is a document with a set of fields that a person fills out and sends to a business or individual to register for an even.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Guessing Game</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;This game is an engaging way to practice logical thinking and can be modified to adjust the difficulty by changing the range or limiting the number of attempts.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-241653987&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-584716293&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -152,7 +152,7 @@ Demo:
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-241653987&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-584716293&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
