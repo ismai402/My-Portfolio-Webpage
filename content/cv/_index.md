@@ -28,7 +28,7 @@ Dedicated and skilled front-end developer with a strong foundation in web techno
 
 - **Jahangirnagar University**  
   *Bachelor’s Degree*  
-  Year of Graduation: 2022-2026
+  Year of Graduation: 2022-present
 
 - **Bogura Cantonment Public School and College**  
   GPA: 5.00  
