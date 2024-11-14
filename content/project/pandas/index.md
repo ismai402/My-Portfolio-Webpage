@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: Tik-Tac-Toe
+date: 2024-10-01
+external_link: https://github.com/ismai402/Tic-Tac-Toe-using-HTML-CSS-JavaScript
+# tags:
+#   - Hugo
+#   - Wowchemy
+#   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+The objectives are to create an entertaining game that teaches strategy and can be played  
 
 <!--more-->

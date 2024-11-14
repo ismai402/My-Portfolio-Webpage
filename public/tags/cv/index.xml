@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CV | Ismail&#39;s Portfolio Website</title>
+    <link>http://localhost:1313/tags/cv/</link>
+      <atom:link href="http://localhost:1313/tags/cv/index.xml" rel="self" type="application/rss+xml" />
+    <description>CV</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>CV</title>
+      <link>http://localhost:1313/tags/cv/</link>
+    </image>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/python/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/python/</guid>
+      <description>&lt;p&gt;![Ismail Hossain&amp;rsquo;s Profile Picture](d:\HTML Practice\IMG_20220831_125819_581.jpg)&lt;/p&gt;
+&lt;h1 id=&#34;ismail-hossain&#34;&gt;Ismail Hossain&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Front-End Developer&lt;/strong&gt;&lt;br&gt;
+Email: &lt;a href=&#34;mailto:ismailraj127413@gmail.com&#34;&gt;ismailraj127413@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Phone: 01797739109&lt;/p&gt;
+&lt;p&gt;Location: Savar,Dhaka&lt;/p&gt;
+&lt;p&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/ismail-hossain-a613ab218/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linkedin.com/in/ismail-hossain-a613ab218/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/ismai402&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ismai402&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;profile-summary&#34;&gt;Profile Summary&lt;/h2&gt;
+&lt;p&gt;Dedicated and skilled front-end developer with a strong foundation in web technologies and a keen eye for design. Experienced in creating user-friendly interfaces and responsive websites. Passionate about learning new technologies and continuously improving coding skills.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Jahangirnagar University&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Bachelor’s Degree&lt;/em&gt;&lt;br&gt;
+Year of Graduation: 2022-2026&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Bogura Cantonment Public School and College&lt;/strong&gt;&lt;br&gt;
+GPA: 5.00&lt;br&gt;
+Graduated: 2019&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Al Helal Islami Academy and College&lt;/strong&gt;&lt;br&gt;
+GPA: 5.00&lt;br&gt;
+Graduated: 2017&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: HTML, CSS, JavaScript, Java, C, C++, Database&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frameworks&lt;/strong&gt;: React, Bootstrap&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Git, GitHub, VS Code, Figma, Paradigm&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other&lt;/strong&gt;: Responsive Web Design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;!-- ## Professional Experience
+
+- **[Current/Most Recent Company/Organization Name]**  
+  *Front-End Developer*  
+  [Employment Duration]  
+  - Developed and maintained responsive websites and applications.
+  - Collaborated with designers and back-end developers to create seamless user experiences.
+  - Improved website performance and ensured cross-browser compatibility.
+  - Implemented new features and optimized existing code. --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+&lt;!-- - **[Portfolio Website]**: Developed a personal portfolio website showcasing projects, skills, and experience. --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[Web Development Projects]&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;-Tic-Tac-Toe&lt;/p&gt;
+&lt;p&gt;-Tribute page&lt;/p&gt;
+&lt;p&gt;-Guessing Game&lt;/p&gt;
+&lt;p&gt;-Current Time Show&lt;/p&gt;
+&lt;p&gt;-Dynamic CSS Color Change&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[Robotics Project]&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;-Line Following Robot (LFR)&lt;/p&gt;
+&lt;p&gt;-Robo Soccer&lt;/p&gt;
+&lt;p&gt;-Ultrsonic Sensor&lt;/p&gt;
+&lt;p&gt;-Soil Moisture Sensor&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;additional-experience&#34;&gt;Additional Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Teaching&lt;/strong&gt;: Provided private tuition and conducted classes at school, gaining experience in helping students understand complex concepts effectively.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;certifications-and-courses&#34;&gt;Certifications and Courses&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;FreeCodeCamp&lt;/strong&gt;: Responsive Web Design Certification&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Buet Robotics Society&lt;/strong&gt;: Robotics Competition&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Science Curnival 3.0&lt;/strong&gt;: Chattogram University Robot Competition&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technoxian Bangladesh&lt;/strong&gt;: 1st Technoxian Bangladesh National Round-2024&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Available upon request.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
