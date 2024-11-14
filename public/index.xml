@@ -44,11 +44,27 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     </item>
     
     <item>
+      <title>Tribute Page</title>
+      <link>http://localhost:1313/project/theme/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/theme/</guid>
+      <description>&lt;p&gt;I have attempted to build the Tribute page and although i have been successful in completing the task as it passes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Tik-Tac-Toe</title>
       <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pandas/</guid>
       <description>&lt;p&gt;The objectives are to create an entertaining game that teaches strategy and can be played&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating Registration Form</title>
+      <link>http://localhost:1313/project/toolkit/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/toolkit/</guid>
+      <description>&lt;p&gt;A registration form is a document with a set of fields that a person fills out and sends to a business or individual to register for an even.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -73,22 +89,6 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Creating Registration Form</title>
-      <link>http://localhost:1313/project/toolkit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/toolkit/</guid>
-      <description>&lt;p&gt;A registration form is a document with a set of fields that a person fills out and sends to a business or individual to register for an even.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Tribute Page</title>
-      <link>http://localhost:1313/project/theme/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/theme/</guid>
-      <description>&lt;p&gt;I have attempted to build the Tribute page and although i have been successful in completing the task as it passes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-584716293&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-731285964&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -152,7 +152,7 @@ Demo:
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-584716293&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-731285964&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

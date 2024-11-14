@@ -5,7 +5,7 @@
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
@@ -13,11 +13,27 @@
     </image>
     
     <item>
+      <title>Tribute Page</title>
+      <link>http://localhost:1313/project/theme/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/theme/</guid>
+      <description>&lt;p&gt;I have attempted to build the Tribute page and although i have been successful in completing the task as it passes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Tik-Tac-Toe</title>
       <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pandas/</guid>
       <description>&lt;p&gt;The objectives are to create an entertaining game that teaches strategy and can be played&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating Registration Form</title>
+      <link>http://localhost:1313/project/toolkit/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/toolkit/</guid>
+      <description>&lt;p&gt;A registration form is a document with a set of fields that a person fills out and sends to a business or individual to register for an even.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -29,27 +45,11 @@
     </item>
     
     <item>
-      <title>Creating Registration Form</title>
-      <link>http://localhost:1313/project/toolkit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/toolkit/</guid>
-      <description>&lt;p&gt;A registration form is a document with a set of fields that a person fills out and sends to a business or individual to register for an even.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Guessing Game</title>
       <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/scikit/</guid>
       <description>&lt;p&gt;This game is an engaging way to practice logical thinking and can be modified to adjust the difficulty by changing the range or limiting the number of attempts.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Tribute Page</title>
-      <link>http://localhost:1313/project/theme/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/theme/</guid>
-      <description>&lt;p&gt;I have attempted to build the Tribute page and although i have been successful in completing the task as it passes.&lt;/p&gt;</description>
     </item>
     
   </channel>
