@@ -47,7 +47,7 @@ Dedicated and skilled front-end developer with a strong foundation in web techno
 - **Tools**: Git, GitHub, VS Code, Figma, Paradigm
 - **Other**: Responsive Web Design
 
-
+---
 
 <!-- ## Professional Experience
 
