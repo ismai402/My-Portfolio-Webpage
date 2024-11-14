@@ -1,6 +1,6 @@
 ---
 title: Creating Registration Form
-date: 2023-10-26
+date: 2024-09-26
 external_link: https://github.com/ismai402/Registration-form-using-HTML-CSS
 # tags:
 #   - Hugo
