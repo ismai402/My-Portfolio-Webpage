@@ -247,7 +247,6 @@ renders as" /><meta property="og:image" content="http://localhost:1313/post/data
   
   
   
-  
     
       
       
@@ -379,6 +378,7 @@ renders as" /><meta property="og:image" content="http://localhost:1313/post/data
         
       
     
+  
   
   
   
@@ -781,13 +781,6 @@ renders as" /><meta property="og:image" content="http://localhost:1313/post/data
         <li class=""><a
     class="hb-sidebar-custom-link
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/cv/"
-    
-  >
-    </a></li>
-        <li class=""><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
     href="/projects/"
     
   >Projects
@@ -798,6 +791,13 @@ renders as" /><meta property="og:image" content="http://localhost:1313/post/data
     href="/experience/"
     
   >Experience
+    </a></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/cv/"
+    
+  >
     </a></li>
         <li class=""><a
     class="hb-sidebar-custom-link
@@ -1027,7 +1027,7 @@ Demo:
 
 
 
-<div id="chart-731285964" class="chart"></div>
+<div id="chart-764513289" class="chart"></div>
 <script>
   async function fetchChartJSON() {
     console.debug('Hugo Blox fetching chart JSON...')
@@ -1045,7 +1045,7 @@ Demo:
 
       fetchChartJSON().then(chart => {
         console.debug('Plotting chart...')
-        window.Plotly.newPlot('chart-731285964', chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot('chart-764513289', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
