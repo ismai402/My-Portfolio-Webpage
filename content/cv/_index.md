@@ -97,7 +97,7 @@ Dedicated and skilled front-end developer with a strong foundation in web techno
 
 ---
 
-## Certifications and Courses
+## Certifications
 
 - **FreeCodeCamp**: Responsive Web Design Certification
 - **Buet Robotics Society**: Robotics Competition
