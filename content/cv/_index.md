@@ -1,7 +1,7 @@
 ---
 # title: Curriculum Vitae
-summary: This is my CV.
-date: 2022-10-24
+summary: This is my Curriculum Vitae.
+date: 2024-11-18
 type: docs
 math: false
 # tags:
