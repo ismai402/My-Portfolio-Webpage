@@ -75,6 +75,7 @@ Dedicated and skilled front-end developer with a strong foundation in web techno
 -Current Time Show
 
 -Dynamic CSS Color Change
+
 - **[Robotics Project]**:
 
 -Line Following Robot (LFR)
@@ -84,6 +85,8 @@ Dedicated and skilled front-end developer with a strong foundation in web techno
 -Ultrsonic Sensor
 
 -Soil Moisture Sensor
+
+-Obstacle Detector car
 
 
 ---
@@ -103,8 +106,7 @@ Dedicated and skilled front-end developer with a strong foundation in web techno
 
 ---
 ## Contact Me
-<!-- # Ismail Hossain
-**Front-End Developer**   -->
+
 Email: ismailraj127413@gmail.com
 
 Phone: 01797739109
@@ -115,8 +117,17 @@ LinkedIn: https://www.linkedin.com/in/ismail-hossain-a613ab218/
 
 GitHub: https://github.com/ismai402
 
+Whatsapp: https://web.whatsapp.com/
+
+Facebook: https://www.facebook.com/profile
+
 ---
 
-## References
+### References
 
-Available upon request.
+**Md. Rafsan Jani**  
+Associate Professor  
+Department of Computer Science & Engineering  
+Jahangirnagar University  
+Savar, Dhaka
+

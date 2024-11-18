@@ -52,6 +52,7 @@ interests:
   - Web Development
   - Data Science
   - Machine Learning
+  - Graphics Design
 
 education:
   - area: Studies at Department of Computer Science & Engineering
@@ -128,7 +129,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: C, C++, Java, JavaScript, DBMS, Data Structure, HTML, CSS
+      - name: C, C++, Java, JavaScript, DBMS, HTML, CSS
         description: ''
         percent: 60
         icon: code-bracket
