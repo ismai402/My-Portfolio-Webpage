@@ -7,7 +7,7 @@ Feel free to reach out to me via any of the following contact methods:
 
 - **GitHub**: https://github.com/ismai402
 
-- **LinkedIn**: https://www.linkedin.com/in/ismail-hossain-a613ab218/recent-activity/all/
+- **LinkedIn**: https://www.linkedin.com/in/ismail-hossain-a613ab218/
 
 <!-- - **Twitter**: [Your Twitter Handle] -->
 <!-- - **Portfolio**: [Link to Your Portfolio Website] -->

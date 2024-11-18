@@ -109,10 +109,6 @@ Dedicated and skilled front-end developer with a strong foundation in web techno
 
 Email: ismailraj127413@gmail.com
 
-Phone: 01797739109
-
-Location: Savar,Dhaka
-
 LinkedIn: https://www.linkedin.com/in/ismail-hossain-a613ab218/
 
 GitHub: https://github.com/ismai402
@@ -120,6 +116,10 @@ GitHub: https://github.com/ismai402
 Whatsapp: https://web.whatsapp.com/
 
 Facebook: https://www.facebook.com/profile
+
+Phone: 01797739109
+
+Location: Savar,Dhaka
 
 ---
 

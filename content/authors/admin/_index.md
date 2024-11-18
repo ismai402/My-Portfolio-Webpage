@@ -42,6 +42,10 @@ profiles:
     url: https://github.com/ismai402
   - icon: brands/linkedin
     url: https://www.linkedin.com/
+  - icon: brands/facebook
+    url: https://www.facebook.com/
+  - icon: brands/whatsapp
+    url: https://web.whatsapp.com/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
